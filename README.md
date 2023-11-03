@@ -30,3 +30,8 @@ kkfelipemacedo@gmail.com
 ## UX(FIGMA)
 
 ![UX](https://github.com/KauaFM/KauaFM/assets/116116544/7b0135a3-0f7b-4d1d-904d-a761cdafbfb7)
+
+## UX(MOBILE)
+
+![mobile](https://github.com/KauaFM/KauaFM/assets/116116544/99e727b3-6a22-4a1e-864b-873020341e42)
+
