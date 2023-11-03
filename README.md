@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Felipe ✋
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaua_felipe7/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-felipe-de-macedo-41419923a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaua_felipe7/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-felipe-de-macedo-41419923a/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://www.linkedin.com/in/kau%C3%A3-felipe-de-macedo-41419923a](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPhNJdbwdjGcgVKfntBbSDRHhSdPxnqSdkPBPmZzpwSbJpbxpcPSmhJlbVcSRkqLTKNV)/)
 
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaFM&show_icons=true&theme=radical)
 
@@ -15,7 +15,9 @@
 <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div></br>
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
+  </div></br>
 
 Apaixonado por tecnologia e cursando Análise e Desenvolvimento de Sistemas! 
 
@@ -27,9 +29,12 @@ E futuro Perito Forense Digital em CyberSecurity 🔒🌐👨🏽‍💻
 
 kkfelipemacedo@gmail.com
 
+
 ## UX(FIGMA)
 
 ![UX](https://github.com/KauaFM/KauaFM/assets/116116544/7b0135a3-0f7b-4d1d-904d-a761cdafbfb7)
+
+
 
 ## UX(MOBILE)
 
